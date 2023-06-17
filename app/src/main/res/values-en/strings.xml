@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VengaAMiPueblo2</string>
+
+    <string name="descripcionhoteles">
+        In principe carolina, you will find hotels and glampings from the
+        $80,000 COP per night, comfortable rooms that will allow you
+        enjoy the rest and relaxation of the town
+    </string>
+    <string name="descripcionrestaurantes">
+        En carolina del principe,econtraras hoteles y glampings desde los
+        $80000 COP por noche, comodas habitaciones que te permitaran
+        disfrutar del descanso y el relax del pueblo
+    </string>
+    <string name="descripcionsitios">
+        En carolina del principe,econtraras hoteles y glampings desde los
+        $80000 COP por noche, comodas habitaciones que te permitaran
+        disfrutar del descanso y el relax del pueblo
+    </string>
+
+    <string name="opcion1">Spanish</string>
+    <string name="opcion2">Russia</string>
+    <string name="opcion3">English</string>
+    <string name="opcion4">About Us</string>
+</resources>
